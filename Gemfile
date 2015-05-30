@@ -39,3 +39,4 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'figaro'
+gem 'bootstrap-sass', '~> 3.3.4'
