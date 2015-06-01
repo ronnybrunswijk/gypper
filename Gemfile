@@ -44,3 +44,8 @@ end
 
 gem 'figaro'
 gem 'bootstrap-sass', '~> 3.3.4'
+
+group :test do
+  gem 'cucumber-rails', :require => false
+  gem 'database_cleaner'
+end

@@ -25,3 +25,5 @@ production:
   database: <%= ENV['DATABASE_PRODUCTION'] %>
   username: <%= ENV['DATABASE_USER_PRODUCTION'] %>
   password: <%= ENV['DATABASE_PASSWORD_PRODUCTION'] %>
+cucumber:
+  <<: *test
