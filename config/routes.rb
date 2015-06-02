@@ -1,7 +1,13 @@
 Rails.application.routes.draw do
 
-  root to: 'static_pages#home'
-  get 'home', to: "static_pages#home", as: :home
+  root to: 'static_pages#introductiepagina'
+
+  get 'introductiepagina', to: 'static_pages#introductiepagina', as: :introductiepagina
+  get 'verkoopverhalltje_maar_dan_uitgebreider', to: 'static_pages#verkoopverhalltje_maar_dan_uitgebreider', as: :verkoopverhalltje_maar_dan_uitgebreider
+  get 'tarieven_voor_geld', to: 'static_pages#tarieven_voor_geld', as: :tarieven_voor_geld
+  get 'betalen_met_spullen', to: 'static_pages#betalen_met_spullen', as: :betalen_met_spullen
+  get 'werkwijze', to: 'static_pages#werkwijze', as: :werkwijze
+  get 'about', to: 'static_pages#about', as: :about
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

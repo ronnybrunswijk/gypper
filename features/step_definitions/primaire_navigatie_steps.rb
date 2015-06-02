@@ -8,7 +8,7 @@ end
 
 Stel(/^als gebruiker ben ik op de home pagina$/) do
   visit '/'
-  page.find("title", text: "Gypper | Home", visible: false)
+  page.find("title", text: "Gypper | Introductiepagina", visible: false)
 end
 
 Als(/^ik dan op de "(.*?)" link klik$/) do |link|
