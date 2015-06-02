@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Gypper</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><%= content_for?(:title) ? "Gypper | #{yield(:title)}" : "Gypper" %></title>
+  <meta name="description" content="<%= content_for?(:description) ? yield(:description) : "Gypper" %>">
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
 </head>
 <body>
-
+  <ul>
+    <li><%= link_to "home", root_path  %></li>
+  </ul>
 <%= yield %>
 
 </body>
