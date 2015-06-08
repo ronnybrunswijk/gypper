@@ -9,16 +9,11 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-  <ul>
-    <li><%= link_to "Introductiepagina", root_path  %></li>
-    <li><%= link_to "Verkoopverhalltje, maar dan uitgebreider", verkoopverhalltje_maar_dan_uitgebreider_path  %></li>
-    <li><%= link_to "Tarieven voor geld", tarieven_voor_geld_path  %></li>
-    <li><%= link_to "Betalen met spullen", betalen_met_spullen_path  %></li>
-    <li><%= link_to "Werkwijze", werkwijze_path  %></li>
-    <li><%= link_to "About", about_path  %></li>
-  </ul>
-
-<%= yield %>
-
+  <header>
+    <%= render 'layouts/navigation' %>
+  </header>
+  <main role="main">
+    <%= yield %>
+  </main>
 </body>
 </html>
