@@ -19,3 +19,27 @@ nl:
       extra_services: "Opslagen voor extra services"
       overnight_services: "Overnightservice (24 uur)"
       percentage_50: "50%" 
+    werkwijze:
+      step1:
+        title: "1. Bereken je prijs"
+        comment: "Link naar tarieven"
+      step2:
+        title: "2. Contact"
+        comment: "We mailen / sms’en / Whatsappen / Whateveren! Link contact."
+      step3:
+        title: "3. Je stuurt je tekst op"
+        comment: "Wel digitaal, hè. Ik doe niet aan papier."
+      step4:
+        title: "4. Ik ga voor je aan de slag"
+        comment: "Werken, werken, werken, werken…"
+      step5:
+        title: "5. Ik stuur je een aantal fragmenten vande gecorrigeerde tekst en een factuur."
+        comment: "Als bewijs dat ik mijn werk gedaan heb. Jij krijgt een idee van wát ik gedaan heb."
+      step6:
+        title: "6. Als je tevreden bent betaal je."
+        comment: "Link naar IBAN"
+      step7:
+        title: "7. Ik stuur je het hele verhaal toe."
+        comment: "Nu kun je net doen alsof je Nederlands fantastisch is!!!"
+      pay_in_kind: "Wat hierboven staat, heeft natuurlijk betrekking op betalen met geld. Wil je met spullen betalen, dan is er stap 1.5 waarin jij aangeeft wat je in de aanbieding hebt en ik of ik daarop zit te wachten."
+      
