@@ -1,0 +1,21 @@
+nl:
+  text:
+    tarieven_voor_betalen_met_geld:
+      obvious_errors:
+        header: "Obvious errors"
+        costs: "EUR 0,004 per woord (EUR 30,= per 7.500 woorden met een minimumvan EUR 30,=)"
+        specs: "(overduidelijke fouten in interpunctie, spelling en grammatica). Uiteraard kunje zelf met de spellingcheckers  al veel fouten uit een tekst halen. De ervaring leert echter dat die er vaak toch ook nog een hoop laat staan."
+        example: "- Hij spreek echt prima Nederlands;- Hij woont in een hele mooie huis;- Het voorziening die ik hebgetroffen...;- Die jongen wilt nooit met me spelen;- Het doet aan atletiek, hij is lange afstand loper;  - Gisteren zei ze nog ik ga dat echt niet doen;  - Ik nodig jullie uit om vanavond langs te komen en gaan we met zijn allen lekker een hapje eten."
+      must_haves:
+        header: "Must haves"
+        costs: "EUR 0,005 per woord (EUR 37,50 per 7.500 woorden met een minimum van EUR 37,50)"
+        specs: "Minder opvallende fouten, maar ook zaken die technisch gezien niet fout zijn, maar bijvoorbeeld de betekenis van een zin kunnen veranderen."
+        example: "- Dat is ten alle tijden fout;- Er is een aantal dingen die we nu kunnen doen...;- Ik heb hen gezegd dat ze dat niet moeten doen."
+      would_haves:
+        header: "Would haves"
+        costs: "EUR 0,006 per woord (EUR 45,= per 7.500 woorden met een minimum van EUR 45,=)XS"
+        specs: "Stijlfouten. Denk aan te lange of complexe zinnen, alineagebruik, of aan 'archaïsch' taalgebruik."
+        example: "- Wij hechten eraan u onze boodschap te verkondigen middels een ellenlange en schier onleesbare brief;   - De jongen met welke ik samenwerk is in mijn opinieniet de slimste aller jongens;- In het ontslagrecht werkt het aldus dat onder verwijzing naar arrest Noordman de conclusie getrokken moet worden datde verdedigende partij niet in het ongelijk gesteld kan worden tenzij de onderhavige kwestie onvoorwaardelijk te scharen valt in de categoriewoordenbrij."
+      extra_services: "Opslagen voor extra services"
+      overnight_services: "Overnightservice (24 uur)"
+      percentage_50: "50%" 
