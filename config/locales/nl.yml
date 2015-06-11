@@ -61,3 +61,13 @@ nl:
         header: "Of betaal met wederdiensten. Er zijn een paar dingen die ik niet kan, of leuk vind. Misschien ligt dat voor jou anders."  
         shit_i_dont_like: "Dit vind ik shit:"
         taxes: "Belastingaangifte doen"
+    verkoopverhalltje_maar_dan_uitgebreider:
+      error_removal:
+        header: "Foutremoval!"
+        content: "Meestal maakt het geen ruk uit hoe je je shit opschrijft, maar voor sommige gelegenheden is het gewoon handig als er geen al te domme fouten inje Nederlands zitten (sollicitatiebrieven, scripties, websites, je nieuwe rapnummer, enfin je kunt het zelf ook wel bedenken)."
+      cheap:
+        header: "Goedkoop!"
+        content: "Mijn product is een afspiegeling van mijzelf. Wat kan ik er meer over zeggen? Goedkoper vind je het niet.  Oh ja, je mag ook betalen met spullen die ik op dat moment toevallig net nodigheb. Handig voor als je geen geld hebt, of wilt uitgeven"
+      more:
+        header: "Meer!"
+        content: "Ik kan je stukkie tekst ook voor je opleuken, zodat het net echt lijkt en managers of docenten of klanten misschien zelfs bijna gaan denken dat het goeie shit is.  Dus dat…"
