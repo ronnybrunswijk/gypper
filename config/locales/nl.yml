@@ -4,7 +4,7 @@ nl:
       obvious_errors:
         header: "Obvious errors"
         costs: "EUR 0,004 per woord (EUR 30,= per 7.500 woorden met een minimumvan EUR 30,=)"
-        specs: "(overduidelijke fouten in interpunctie, spelling en grammatica). Uiteraard kunje zelf met de spellingcheckers  al veel fouten uit een tekst halen. De ervaring leert echter dat die er vaak toch ook nog een hoop laat staan."
+        specs: "(overduidelijke fouten in interpunctie, spelling en grammatica). Uiteraard kun je zelf met de spellingcheckers  al veel fouten uit een tekst halen. De ervaring leert echter dat die er vaak toch ook nog een hoop laat staan."
         example: "- Hij spreek echt prima Nederlands;- Hij woont in een hele mooie huis;- Het voorziening die ik hebgetroffen...;- Die jongen wilt nooit met me spelen;- Het doet aan atletiek, hij is lange afstand loper;  - Gisteren zei ze nog ik ga dat echt niet doen;  - Ik nodig jullie uit om vanavond langs te komen en gaan we met zijn allen lekker een hapje eten."
       must_haves:
         header: "Must haves"
@@ -64,10 +64,10 @@ nl:
     verkoopverhalltje_maar_dan_uitgebreider:
       error_removal:
         header: "Foutremoval!"
-        content: "Meestal maakt het geen ruk uit hoe je je shit opschrijft, maar voor sommige gelegenheden is het gewoon handig als er geen al te domme fouten inje Nederlands zitten (sollicitatiebrieven, scripties, websites, je nieuwe rapnummer, enfin je kunt het zelf ook wel bedenken)."
+        content: "Meestal maakt het geen ruk uit hoe je je shit opschrijft, maar voor sommige gelegenheden is het gewoon handig als er geen al te domme fouten in je Nederlands zitten (sollicitatiebrieven, scripties, websites, je nieuwe rapnummer, enfin je kunt het zelf ook wel bedenken)."
       cheap:
         header: "Goedkoop!"
-        content: "Mijn product is een afspiegeling van mijzelf. Wat kan ik er meer over zeggen? Goedkoper vind je het niet.  Oh ja, je mag ook betalen met spullen die ik op dat moment toevallig net nodigheb. Handig voor als je geen geld hebt, of wilt uitgeven"
+        content: "Mijn product is een afspiegeling van mijzelf. Wat kan ik er meer over zeggen? Goedkoper vind je het niet.  Oh ja, je mag ook betalen met spullen die ik op dat moment toevallig net nodig heb. Handig voor als je geen geld hebt, of wilt uitgeven"
       more:
         header: "Meer!"
         content: "Ik kan je stukkie tekst ook voor je opleuken, zodat het net echt lijkt en managers of docenten of klanten misschien zelfs bijna gaan denken dat het goeie shit is.  Dus dat…"
