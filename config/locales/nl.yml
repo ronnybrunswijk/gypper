@@ -42,4 +42,22 @@ nl:
         title: "7. Ik stuur je het hele verhaal toe."
         comment: "Nu kun je net doen alsof je Nederlands fantastisch is!!!"
       pay_in_kind: "Wat hierboven staat, heeft natuurlijk betrekking op betalen met geld. Wil je met spullen betalen, dan is er stap 1.5 waarin jij aangeeft wat je in de aanbieding hebt en ik of ik daarop zit te wachten."
-      
+    betalen_met_spullen:
+      page_header: "Of betaal met andere dingen dan geld. Heel hip, heel eigentijds."
+      possibly_accepted_shit:
+        header: "De shit hieronder kan ik altijd gebruiken en accepteer ik eventueel ook als betaling." 
+        furniture: "Meubels"
+        watches: "Horloges"
+        phones: "Telefoons"
+        toys: "Speelgoed"
+        comics: "Stripboeken"
+        tools: "Gereedschap"
+        liquor: "Alcoholische drank"
+        wii_games: "Spelletjes voor op de Wii"
+        linens: "Beddengoed"
+        pallets: "Pallets, pallets en nog eens pallets"
+        any_ideas: "Als je nog meer goeie ideeën hebt, dan hoor ik het wel."
+      possibly_accepted_sevices:
+        header: "Of betaal met wederdiensten. Er zijn een paar dingen die ik niet kan, of leuk vind. Misschien ligt dat voor jou anders."  
+        shit_i_dont_like: "Dit vind ik shit:"
+        taxes: "Belastingaangifte doen"
